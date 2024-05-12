@@ -1,5 +1,5 @@
 All code in this project is based off my working through "Object Oriented Python"
-by Irv Kalb the link to the original repository can be found here:
+by Irv Kalb. The link to the original repository can be found here:
 
 https://github.com/IrvKalb/Object-Oriented-Python-Code/tree/master
 
@@ -7,7 +7,7 @@ and the book itself can be found here:
 
 https://nostarch.com/object-oriented-python/
 
-here is the obligatory licensing information:
+Here is the obligatory licensing information:
 
 BSD 2-Clause License
 
